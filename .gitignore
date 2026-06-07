@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment and logs
+.env*
+*.log
+
+# Temporary files and caches
+tmp/
+.cache/
+
+# Generated QA previews and run artifacts
+codex-pets/**/qa/
